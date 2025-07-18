@@ -104,73 +104,73 @@ Once deployed, the bot connects to your **Telegram Bot API**, listens for your c
 
 > Only screenshots are uploaded here for security and privacy reasons.
 
-<p align="center">
+<p align="left">
   <img src="images/shot1.png" width="300"/>
   <br/>
   <em>📊 Bot Dashboard 1 (Telegram View)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/shot2.png" width="300"/>
   <br/>
   <em>📊 Bot Dashboard 2 (Telegram View)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/shot3.png" width="300"/>
   <br/>
   <em>📊 Bot Dashboard  3 (Telegram View)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/keystroke.png" width="300"/>
   <br/>
   <em>📁 Keystroke output  (Dark Mode)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/hashes.png" width="300"/>
   <br/>
   <em>📁 Hashes extraction output  (Dark Mode)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/browser.png" width="300"/>
   <br/>
   <em>📁 Browser credentials extraction output  (Dark Mode)</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/wifi.png" width="300"/>
   <br/>
   <em>🖥 Wifi Output</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/file_browser.png" width="300"/>
   <br/>
   <em>📷 File browser output</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/keystroke.png" width="300"/>
   <br/>
   <em>📷 Keystroke output</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/webcam_stream.png" width="300"/>
   <br/>
   <em>📷  webcamstream output </em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/file_browser2.png" width="300"/>
   <br/>
   <em>📷 File browser output 2</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/more.png" width="300"/>
   <br/>
   <em>📷 More outputs </em>
